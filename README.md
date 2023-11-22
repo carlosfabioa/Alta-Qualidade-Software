@@ -1,2 +1,2 @@
 # Alta-Qualidade-Software
-É dedicado ao desenvolvimento de ferramentas e práticas automatizadas para melhorar a qualidade do software.
+O repositório  é dedicado ao desenvolvimento de ferramentas e práticas automatizadas para melhorar a qualidade do software. Este projeto foca em integrar processos automatizados no ciclo de desenvolvimento de software para garantir uma maior consistência e confiabilidade do produto final. Os principais objetivos incluem a automação de testes, análise de código, integração contínua (CI) e entrega contínua (CD), bem como a implementação de padrões de codificação e revisões de código automatizadas.
